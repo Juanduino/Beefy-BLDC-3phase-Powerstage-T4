@@ -1,4 +1,4 @@
-# Beefy-BLDC-3phase-T4-Powerstage
+# Beefy-BLDC-3phase-Powerstage-T4
 
 Powerfull BLDC motor controller w. Field Oriented Control (FOC) which is the most silent and efficient way to drive a 3 phase brushless DC motor.
 
