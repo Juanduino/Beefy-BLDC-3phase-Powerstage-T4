@@ -6,7 +6,7 @@ Using the TEENSY 4.0 modular MCU and the SimpleFOC librery.
 
 In development.
 
-![TOP](https://github.com/Juanduino/Beefy-BLDC-3phase-T4-Powerstage/blob/master/Images/TOP.PNG)
+![TOP](https://github.com/Juanduino/Beefy-BLDC-3phase-Powerstage-T4/blob/main/Images/TOP.PNG)
 
  
 
